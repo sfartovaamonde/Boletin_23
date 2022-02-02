@@ -1,4 +1,4 @@
-package com.dam1;
+package Ejercicio_1;
 
 public class Main {
 
